@@ -1,7 +1,6 @@
 # mtgserver
 
 
-
 Core3 server for post 14.1 content
 
 For more info visit the wiki here:
